@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClickNotification</string>
+    <string name="channel_name">My Chanel</string>
+    <string name="channel_description">This is my chanel</string>
+</resources>
